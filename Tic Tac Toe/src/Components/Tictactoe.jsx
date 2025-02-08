@@ -56,7 +56,7 @@ const Tictactoe = () => {
           titleref.current.innerHTML = `🎉 Congratulations! <img src=${circle_icon}> wins! 🎉`;
         }
         titleref.current.style.color = '#26ffbc';
-
+        alert("Hello Hitanshu");
         triggerConfetti(); // 🎉 Trigger confetti on win
         return;
       }
