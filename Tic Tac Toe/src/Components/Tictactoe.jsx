@@ -57,6 +57,7 @@ const Tictactoe = () => {
         }
         titleref.current.style.color = '#26ffbc';
         // Hitanshu 
+        // alert("Hello");
         triggerConfetti(); // 🎉 Trigger confetti on win
         return;
       }
