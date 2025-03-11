@@ -25,9 +25,9 @@ This is a web-based Tic Tac Toe game built using React.js with a modern UI/UX. I
 - **Fully Responsive**: Works smoothly on desktops and mobile devices.
 - **Deployed on Vercel**: Easily accessible from anywhere.
 
-## Demo
+## 🎥 Tic Tac Toe Demo
 
-![Tic Tac Toe Demo](demo.gif)
+[Watch the Demo Video](https://github.com/hitanshuMehta/Tic-Tac-Toe-Game/blob/main/Tic%20Tac%20Toe/src/assets/Video.mp4)
 
 ## Installation
 
