@@ -1,6 +1,6 @@
 # Tic Tac Toe Game in React
 
-![Tic Tac Toe Demo](src/assets/Image.png)
+![Tic Tac Toe Demo](https://raw.githubusercontent.com/hitanshuMehta/Tic-Tac-Toe-Game/main/Tic%20Tac%20Toe/src/assets/Image.png)
 
 ## Overview
 
