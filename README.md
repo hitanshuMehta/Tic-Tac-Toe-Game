@@ -34,6 +34,7 @@ This is a web-based Tic Tac Toe game built using React.js with a modern UI/UX. I
 To run this project locally, clone the repository and run:
 
 ```bash
-git clone 
+git clone https://github.com/hitanshuMehta/Tic-Tac-Toe-Game.git
+cd Tic-Tac-Toe-Game
 npm install
 npm run dev
